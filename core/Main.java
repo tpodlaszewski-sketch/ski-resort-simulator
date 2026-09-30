@@ -1,4 +1,4 @@
-//Tomasz Podlaszewski, nr indeksu 479848
+//Tomasz Podlaszewski
 
 package core;
 
